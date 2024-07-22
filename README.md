@@ -1,2 +1,2 @@
-# Tindog_Projct
+# Tindog_Projcet
 Use Bootstrap Framework
